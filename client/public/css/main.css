@@ -1,0 +1,23 @@
+body {
+  background-color: #2355DD;
+  color: #DDD;
+  font-family: 'Quicksand';
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+h1,
+h3,
+.form,
+.div {
+  display: flex;
+  justify-content: center;
+}
+
+#button {
+  margin-left: 2em;
+}
+
+.item-div {
+  padding: 2em;
+}
